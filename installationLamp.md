@@ -1,5 +1,6 @@
-### commandes linux : 
-# Mettre à jour la bibliothéque en ligne
+###  Liste des commandes linux pour mêttre en place un serveur local LAMP : 
+
+# Mettre à jour la bibliothèque en ligne
 `sudo apt update`
 
 
