@@ -73,5 +73,8 @@ Require all granted
 
 `sudo ln -s /var/www/html /home/nom/Bureau/`
 
+# en cas de problème de droit d'écriture dans le dossier HTML :
+`sudo chmod -R 777 /var/www/html` 
+
 # Ne pas oublier de scanner les SSH keys si il y as conflit pour cloner des repo avec : 
 `ssh-keyscan github.com >> ~/.ssh/known_hosts `
